@@ -10,7 +10,7 @@
 
 # Executables and builds
 #*.exe
-build/
+builds/
 
 # Metadata
 *.aliases
