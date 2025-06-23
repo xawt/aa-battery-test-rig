@@ -21,9 +21,9 @@
 # ========== Build Results ==========
 bin/
 obj/
-*.exe
-*.dll
-*.pdb
+#*.exe
+#*.dll
+#*.pdb
 *.cache
 *.ilk
 *.meta
