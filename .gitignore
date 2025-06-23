@@ -69,8 +69,8 @@ csx/
 
 # ========== Camera/Image outputs (optional) ==========
 # if you generate or store sample captures locally, ignore them:
-*.jpg
-*.jpeg
+#*.jpg
+#*.jpeg
 *.png
 *.bmp
 *.tiff
