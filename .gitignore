@@ -8,13 +8,16 @@
 *.so.*
 *.dylib
 
-# Executables
+# Executables and builds
 #*.exe
+build/
 
 # Metadata
 *.aliases
 *.lvlps
 .cache/
+
+
 
 # Csharp and .NET
 
