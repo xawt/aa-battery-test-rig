@@ -15,3 +15,64 @@
 *.aliases
 *.lvlps
 .cache/
+
+# Csharp and .NET
+
+# ========== Build Results ==========
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.idb
+*.ipdb
+
+# ========== Visual Studio ==========
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ========== NuGet ==========
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Microsoft Azure build output
+csx/
+*.build.csdef
+
+# ========== VS Code ==========
+.vscode/
+
+# ========== Logs and databases ==========
+*.log
+*.sql
+*.sqlite
+
+# ========== Temporary files ==========
+*.tmp
+*.temp
+~$*
+*.orig
+
+# ========== Camera/Image outputs (optional) ==========
+# if you generate or store sample captures locally, ignore them:
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
+*.gif
+
+# ========== OS Files ==========
+.DS_Store
+Thumbs.db
